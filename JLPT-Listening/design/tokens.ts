@@ -38,7 +38,7 @@ export const lightPalette: Palette = {
   success: '#16a34a',
   warn: '#f59e0b',
   danger: '#dc2626',
-  streak: '#f97316',
+  streak: '#0ea5e9',
 };
 
 export const darkPalette: Palette = {
@@ -58,7 +58,7 @@ export const darkPalette: Palette = {
   success: '#22c55e',
   warn: '#fbbf24',
   danger: '#f87171',
-  streak: '#fb923c',
+  streak: '#38bdf8',
 };
 
 export const spacing = { xs: 4, sm: 8, md: 16, lg: 24, xl: 32, xxl: 48 } as const;
